@@ -1,0 +1,4 @@
+The code in this directory is an example of a C program that was written by Brent Clapp.
+This code was an exercise to learn how to utilize signal handlers, and how to overwrite
+the existing handlers. 
+The code simulates a rock-paper-scissors game using multiple processors.
