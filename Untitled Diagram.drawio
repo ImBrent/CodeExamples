@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T04:17:56.125Z" agent="5.0 (Windows)" etag="bpLTBUkK7NZFjONK5UpV" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-05T04:30:14.675Z" agent="5.0 (Windows)" etag="Su_fNYUIjSYCYx_LyNuN" version="14.4.9" type="github" pages="2">
   <diagram id="d_cdNI_9_HA7muEhNs_2" name="Page-1">
     <mxGraphModel dx="776" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,6 +182,18 @@
         </mxCell>
         <mxCell id="tbwxGab4iM1XXnSFzvlE-0" value="Advanced options" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3908FF;" vertex="1" parent="T1Asv5-lbITlJTZevgzh-1">
           <mxGeometry x="660" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tbwxGab4iM1XXnSFzvlE-2" value="&lt;u&gt;&lt;b&gt;Related Searches&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="T1Asv5-lbITlJTZevgzh-1">
+          <mxGeometry x="600" y="225" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tbwxGab4iM1XXnSFzvlE-3" value="&lt;font color=&quot;#3908FF&quot;&gt;Shel Silverstein&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="T1Asv5-lbITlJTZevgzh-1">
+          <mxGeometry x="590" y="250" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tbwxGab4iM1XXnSFzvlE-4" value="&lt;font color=&quot;#3908FF&quot;&gt;Children&#39;s Authors&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="T1Asv5-lbITlJTZevgzh-1">
+          <mxGeometry x="610" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tbwxGab4iM1XXnSFzvlE-5" value="&lt;font color=&quot;#3908FF&quot;&gt;Award-Winning Authors&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="T1Asv5-lbITlJTZevgzh-1">
+          <mxGeometry x="610" y="310" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
